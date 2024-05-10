@@ -10,5 +10,5 @@ A simple music player application built with Python and its libraries
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the application:
-   python app.py
+   python main.py
 
